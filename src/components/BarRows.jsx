@@ -4,7 +4,7 @@ export const Legend = () => (
   <div className="lg">
     <span>
       <i className="dot" style={{ background: 'var(--m)' }} />
-      पुरुष
+      पुरुष 
     </span>
     <span>
       <i className="dot" style={{ background: 'var(--f)' }} />

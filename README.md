@@ -13,7 +13,7 @@ npm run build      # तैयार फ़ाइलें dist/ में ब�
 ## GitHub + Vercel पर लगाना
 
 ```bash
-git init
+git init 
 git add .
 git commit -m "पहला वर्ज़न"
 git branch -M main
